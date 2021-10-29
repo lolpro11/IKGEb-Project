@@ -1,1 +1,1 @@
-flies -c 100 -d 1
+rick -c 100 -d 1 -s 10
